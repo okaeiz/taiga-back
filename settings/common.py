@@ -363,6 +363,7 @@ INSTALLED_APPS = [
     "sr",
     "easy_thumbnails",
     "raven.contrib.django.raven_compat",
+    "jalali_date",
 ]
 
 WSGI_APPLICATION = "taiga.wsgi.application"
